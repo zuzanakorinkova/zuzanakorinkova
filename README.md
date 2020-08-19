@@ -1,5 +1,5 @@
 ## 👻 ! my name is Zuzana
-![](Logotoo.gif)
+![](https://twitter.com/i/status/1296120566840270848)
 
 ## i am a web developer in progress, currently studying in Copenhagen 👩‍💻
 
