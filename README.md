@@ -1,4 +1,4 @@
-## 👻 ! my name is Zuzana
+## welcome ! my name is Zuzana
 ![](https://raw.githubusercontent.com/zuzanakorinkova/zuzanakorinkova/master/Logotoo.gif)
 
 ## i am a web developer in progress, currently studying in Copenhagen 👩‍💻
