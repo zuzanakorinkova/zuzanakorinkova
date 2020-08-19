@@ -1,5 +1,5 @@
 ## 👻 ! my name is Zuzana
-![](https://twitter.com/i/status/1296120566840270848)
+![](https://raw.githubusercontent.com/zuzanakorinkova/zuzanakorinkova/master/Logotoo.gif)
 
 ## i am a web developer in progress, currently studying in Copenhagen 👩‍💻
 
