@@ -1,30 +1,17 @@
-### Hi everyone, my name is Zuzana [website]
+## 👻 ! my name is Zuzana
+![](Logotoo.gif)
 
-## I am UI/UX Designer and Web Developer in progress 👩‍💻
-_I am currently studying Web Development at KEA 🎓 (Copenhagen school of design and technology)
-_I am looking for any opportunity to learn more or collaborate
-_Also: I like digital drawing and yoga 🙌🏻
+## i am a web developer in progress, currently studying in Copenhagen 👩‍💻
 
+* my goal is to learn more about frontend (looking into REACT) and start learning backend development
+* i am looking for any challenges or collaborations bringing me closer to achieve the goal
+* my other hobbies consist of digital drawing, yoga and reading
 
-### Get in touch
+## get in touch
+<a href="https://www.linkedin.com/in/zuzanakorinkova/"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" widht="15" height="30"></a> 
+<a href="https://www.behance.net/zuzanakorinkova"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.1/icons/behance.svg" widht="15" height="30"></a>
+<a href="https://www.fiverr.com/zuzanakorinkova?up_rollout=true"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.5.0/icons/fiverr.svg" widht="15" height="30"></a>
+<a href="http://zuzanakorinkova.com/"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.1/icons/zulip.svg" widht="15" height="30"></a>
 
-[<img align="left" alt="image" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="image" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.1/icons/behance.svg" />][behance]
-[<img align="left" alt="image" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.1/icons/zulip.svg" />][website]
-
-
-### Languages and Tools
-[<img align="left" alt="HTML" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][website]
-[<img align="left" alt="CSS" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][website]
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][website]
-[<img align="left" alt="Bootstrap" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" />][website]
-[<img align="left" alt="" width="26px" src="[<img align="left" alt="VueJS" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png" />][webdevplaylist]" />][website]
-[<img align="left" alt="CSS" width="26px" src="[<img align="left" alt="Firebase" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png" />][webdevplaylist]" />][website]
-
-
-<br/>
-<br/>
-[website]:http://zuzanakorinkova.com/
-[linkedin]:(www.linkedin.com/in/zuzanakorinkova)
-[behance]:(https://www.behance.net/zuzanakorinkova)
-
+## languages and tools
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" widht="20" height="45"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" widht="20" height="45"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" widht="20" height="45"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" widht="20" height="45"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" widht="20" height="45"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png" widht="20" height="45"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png" widht="20" height="45"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/wordpress/wordpress.png" widht="20" height="45"><img src="https://raw.githubusercontent.com/github/explore/ccc16358ac4530c6a69b1b80c7223cd2744dea83/topics/php/php.png" widht="20" height="45">
