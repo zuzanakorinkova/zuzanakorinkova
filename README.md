@@ -3,9 +3,8 @@
 
 ## i am a web developer 👩‍💻
 
-* my goal is to learn more about frontend (looking into REACT) and start learning backend development
+* my goal is to keep improving my skills acquired from studies
 * i am looking for any challenges or collaborations bringing me closer to achieve the goal
-* my other hobbies consist of digital drawing, yoga and reading
 
 ## get in touch
 <a href="https://www.linkedin.com/in/zuzanakorinkova/"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" widht="15" height="30"></a> 
