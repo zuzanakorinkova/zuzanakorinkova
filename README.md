@@ -1,7 +1,7 @@
 ## welcome ! my name is Zuzana
 ![](https://raw.githubusercontent.com/zuzanakorinkova/zuzanakorinkova/master/Logotoo.gif)
 
-## i am a web developer in progress, currently studying in Copenhagen 👩‍💻
+## i am a web developer 👩‍💻
 
 * my goal is to learn more about frontend (looking into REACT) and start learning backend development
 * i am looking for any challenges or collaborations bringing me closer to achieve the goal
